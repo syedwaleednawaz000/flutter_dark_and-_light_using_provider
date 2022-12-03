@@ -18,6 +18,9 @@ class MyApp extends StatelessWidget {
               home: Scaffold(
                 backgroundColor: Theme.of(context).focusColor,
                 appBar: AppBar(
+                  ///
+                  ///
+                  ///
                   title: Text('Hybrid Theme'),
                 ),
                 body: Row(
